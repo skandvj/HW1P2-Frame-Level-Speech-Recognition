@@ -67,4 +67,4 @@ Here are the steps to run your code for the project:
 
 By following these steps, you should be able to run your code and replicate the results generated during development. Let me know if you need further clarification!
 
-Note: I am not able to make my WandDB project public, So I extracted the CSV output from there and screnshot of graphs and created a folder for wandb logs in handin.tar. Please reachout to me for any clarification and I can show the logs live also over zoom or in-person.
+Note: I am not able to make my WandDB project public, So I extracted the CSV output from there and screnshot of graphs and created a folder for wandb logs in handin.tar. Please reachout to me for any clarification and I can show the logs live also over zoom or in-person or I can add the grader email ID in my team in wandb to give the access.
